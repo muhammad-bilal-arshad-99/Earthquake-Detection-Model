@@ -34,4 +34,4 @@ Visual alert differentiation
 
 ## Watch the full project demonstration video here:
 
-https://www.youtube.com/
+https://www.youtube.com/shorts/LvOtdF3uXfk?si=m8Kleb1P6sKFxTav
